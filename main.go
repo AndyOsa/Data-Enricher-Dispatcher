@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"data-enricher-dispatcher/client"
-	"data-enricher-dispatcher/service"
+	"Data-Enricher-Dispatcher/client"
+    "Data-Enricher-Dispatcher/service"
 )
 
 func main() {
