@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"Data-Enricher-Dispatcher/client"
-    "Data-Enricher-Dispatcher/service"
+        "Data-Enricher-Dispatcher/service"
 )
 
 func main() {
